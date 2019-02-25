@@ -81,3 +81,5 @@ typings/
 .dynamodb/
 
 dist/
+
+.rpt2_cache/
